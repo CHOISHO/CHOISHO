@@ -5,8 +5,8 @@ I am a Frontend Developer with 5 years of experience, currently based in South K
 
 ## 🚀 Tech Stack
 - **Languages:** Dart, JavaScript, HTML
-- **Frameworks/Libraries:** Flutter, React Native, React, Vue.js, Svelte
-- **Styling:** CSS, Sass, Less, Styled-Components
+- **Frameworks/Libraries:** Flutter, React Native, Next.js, React, Vue.js, Svelte
+- **Styling:** CSS, Sass, Styled-Components, Emotion
 - **State Management:** Riverpod, Redux, Recoil, Vuex, Mobx
 - **Test:** flutter_test, jest
 - **Tools:** Fastlane, Webpack, Babel, rollup, Git, VS Code, Android Studio, Xcode, Figma, Slack
